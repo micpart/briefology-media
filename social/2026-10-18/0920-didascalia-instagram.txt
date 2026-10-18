@@ -1,0 +1,11 @@
+Perché il telefono vede la luce del telecomando? Perché il sensore della fotocamera vede una luce che per i nostri occhi è invisibile.
+
+Ogni volta che premi un tasto, il telecomando fa lampeggiare un piccolo led a infrarossi, intorno ai 940 nanometri: è un codice fatto di lampi. L'occhio umano vede più o meno da 400 a 700 nanometri, quindi quella luce sta oltre il rosso e per noi resta buia.
+
+Il sensore della fotocamera invece è di silicio, che è sensibile fino a circa 1.100 nanometri. Così sullo schermo il lampo compare come una lucina.
+
+Se non la vedi, prova con la fotocamera frontale: molte fotocamere posteriori hanno un filtro che blocca l'infrarosso, per avere colori più fedeli. È anche un modo veloce per capire se il telecomando funziona (alcuni modelli recenti però usano onde radio, e lì non si vede nulla).
+
+Prova adesso: col tuo telefono la lucina si vede? Rispondi sì o no nei commenti.
+
+#tecnologia #comefunziona #scienza #telecomando #briefology

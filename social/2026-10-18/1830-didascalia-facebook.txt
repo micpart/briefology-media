@@ -1,0 +1,13 @@
+Come fa il radar a riconoscere un aereo? Da solo non ci riesce: deve chiederlo all'aereo stesso.
+
+Venerdì 16 ottobre un guasto alla rete che trasmette i dati del controllo del traffico aereo ha rallentato i voli in tutta Italia. Secondo ENAV non è stato un attacco informatico, e per sicurezza i controllori hanno gestito meno aerei alla volta. Ma di solito come fanno a sapere chi è ogni puntino sullo schermo?
+
+Il radar "classico", quello primario, manda impulsi radio e ascolta l'eco che rimbalza sull'aereo: così sa dove si trova, ma non chi è e non sa bene a che quota vola.
+
+Per questo gli aerei di linea hanno a bordo un transponder. Il radar secondario lo "interroga" sulla frequenza di 1030 MHz e lui risponde a 1090 MHz con un codice di 4 cifre e la quota. Le cifre vanno da 0 a 7: in tutto 4.096 codici possibili.
+
+Alcuni codici valgono in tutto il mondo: 7700 vuol dire emergenza, 7600 radio guasta, 7500 dirottamento.
+
+Lo sapevi del codice 7700? Rispondi sì o no nei commenti.
+
+#tecnologia #comefunziona #scienza #aerei #aviazione

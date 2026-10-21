@@ -1,0 +1,11 @@
+Perché un guasto a Google ferma la banca? Perché tante app non hanno computer propri: li prendono in affitto.
+
+Martedì 20 ottobre Revolut si è bloccata per alcune ore: app, accesso al conto, bonifici, prelievi agli sportelli, pagamenti con carta. Il problema non era nella banca: Revolut ha spiegato che dipendeva da Google Cloud, e Google ha confermato un guasto nel suo centro dati di Londra. In difficoltà anche altre banche e servizi britannici. Revolut ha assicurato che soldi e dati dei clienti sono sempre stati al sicuro.
+
+Il motivo si chiama «cloud»: molte aziende, invece di avere server propri, usano i computer di pochi grandi fornitori. Secondo Synergy Research, nel primo trimestre 2026 Amazon, Microsoft e Google avevano insieme il 63% del mercato mondiale delle infrastrutture cloud.
+
+Così, quando uno di quei centri dati ha un problema, si fermano insieme tanti servizi diversi. Era successo esattamente un anno prima, il 20 ottobre 2025, con Amazon Web Services: per ore si erano bloccati Snapchat, Fortnite, Duolingo e molte altre app.
+
+E a te è mai capitato di non poter pagare perché un'app era bloccata? Rispondi sì o no nei commenti.
+
+#tecnologia #comefunziona #scienza #cloud #briefology

@@ -1,0 +1,11 @@
+Perché il microonde rallenta il Wi-Fi? Perché parlano quasi la stessa lingua.
+
+Il forno a microonde scalda il cibo con onde a circa 2,45 GHz. È proprio dentro la banda a 2,4 GHz usata da molti router Wi-Fi (e anche dal Bluetooth).
+
+La schermatura del forno trattiene quasi tutta l'energia, ma non il cento per cento: le norme ammettono una piccola dispersione. Il punto è la differenza di potenza: un forno lavora con centinaia di watt, mentre in Europa un router a 2,4 GHz può trasmettere al massimo 100 milliwatt, cioè 0,1 watt. Così basta quel poco che sfugge per coprire il segnale, soprattutto se il router o il telefono sono vicini alla cucina.
+
+Il disturbo dura finché il forno è acceso. I rimedi: collegarsi alla rete a 5 GHz, dove il forno non arriva, oppure tenere il router lontano dal microonde.
+
+E a casa tua il Wi-Fi si blocca quando scaldi qualcosa nel microonde? Rispondi sì o no nei commenti.
+
+#tecnologia #comefunziona #scienza #wifi #briefology

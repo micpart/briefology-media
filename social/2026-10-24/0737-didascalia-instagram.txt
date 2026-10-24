@@ -1,0 +1,15 @@
+Chi sposta l'ora al tuo telefono stanotte? Nessuno: il telefono non tocca le lancette, cambia solo il modo in cui ti mostra l'ora.
+
+Stanotte, tra sabato 24 e domenica 25 ottobre, torna l'ora solare: alle 3 gli orologi tornano alle 2.
+
+Dentro il telefono il tempo si conta in ora universale (UTC), che è uguale tutto l'anno. Per mostrarti l'ora italiana il telefono aggiunge 2 ore d'estate e 1 ora d'inverno. Stanotte, alle 3, passa semplicemente da +2 a +1.
+
+Come fa a sapere quando? Ha dentro un archivio dei fusi orari, il «tz database»: le regole dell'ora di moltissimi luoghi del mondo, compresa quella che dice «in Italia si torna indietro l'ultima domenica di ottobre». Lo curano dei volontari e lo usano Android, iPhone, Windows e Mac.
+
+L'ora esatta, invece, arriva da fuori: dalla rete telefonica e dai server dell'ora su internet, collegati a orologi atomici.
+
+Il forno e tanti orologi di casa non hanno nessuno che li avvisi: quelli vanno spostati a mano. Anche il telefono, se hai disattivato l'ora automatica.
+
+Quale orologio di casa devi ancora spostare a mano? Scrivilo nei commenti.
+
+#tecnologia #scienza #comefunziona #orasolare #briefology

@@ -1,0 +1,9 @@
+Sentivi il fischio della vecchia TV a tubo? Non era immaginazione: quel suono acutissimo esisteva davvero, e c'è un motivo se oggi molti adulti non l'hanno mai sentito.
+
+Nei televisori a tubo catodico l'immagine veniva disegnata riga per riga da un fascio di elettroni. In Italia lo schermo aveva 625 righe, ridisegnate 25 volte al secondo: 625 per 25 fa 15.625 righe ogni secondo. A quel ritmo lavorava il trasformatore di riga, che vibrando produceva un fischio a circa 15.625 Hz.
+
+È una frequenza al limite dell'udito umano. E l'udito, con gli anni, perde per primi proprio gli acuti: già da giovani adulti si comincia a faticare sopra i 15-16 mila Hz. Per questo i ragazzi lo sentivano forte (e a volte capivano da un'altra stanza se la TV era accesa), mentre tanti adulti non lo sentivano affatto.
+
+Tu lo sentivi? Scrivi sì o no nei commenti.
+
+#tecnologia #scienza #comefunziona #corpoumano #televisione

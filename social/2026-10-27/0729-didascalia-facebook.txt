@@ -1,0 +1,9 @@
+Perché col freddo il telefono si scarica prima? Non è la batteria che si svuota: è la chimica dentro che rallenta.
+
+Le batterie dei telefoni sono agli ioni di litio. Per dare corrente, gli ioni devono spostarsi da una parte all'altra della batteria attraverso un liquido, l'elettrolita. Quando fa freddo questo liquido diventa più denso e le reazioni rallentano: gli ioni si muovono a fatica e la batteria riesce a dare meno energia. Per questo l'autonomia si accorcia e, con il freddo intenso, il telefono può persino spegnersi.
+
+La buona notizia è che l'effetto è temporaneo. Apple indica di usare i suoi telefoni tra 0 e 35 °C e spiega che, tornati a una temperatura più mite, la durata della batteria torna normale. D'inverno conviene tenerlo in tasca, vicino al corpo, invece che in borsa o in auto.
+
+A te il telefono si è mai spento per il freddo? Scrivi sì o no nei commenti.
+
+#tecnologia #scienza #comefunziona #smartphone #batteria

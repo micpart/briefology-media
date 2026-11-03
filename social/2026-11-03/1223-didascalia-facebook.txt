@@ -1,0 +1,13 @@
+Perché un QR code si legge anche se ne copri un pezzo? Perché dentro ci sono dati di riserva.
+
+Lo trovi ovunque: sul menu del ristorante, sulle bollette, sui biglietti. Spesso ha un logo stampato proprio in mezzo, o è un po' rovinato, eppure il telefono lo legge lo stesso.
+
+Il motivo si chiama correzione degli errori. Oltre al messaggio, il QR contiene blocchi di controllo calcolati con un metodo matematico chiamato Reed-Solomon. Se una parte manca o è sporca, il telefono usa quei blocchi per ricostruirla.
+
+Chi crea il codice sceglie quanta riserva mettere, su quattro livelli: si recupera circa il 7, il 15, il 25 o il 30% dei dati. Non vuol dire però che puoi coprirne un terzo a caso: se copri i tre quadrati agli angoli, il codice non si legge più. Quei quadrati non contengono il messaggio, servono al telefono per trovarlo e capire come è girato, anche se è capovolto.
+
+Il QR code è nato nel 1994 in Giappone, alla Denso, un'azienda di componenti per auto: serviva a seguire i pezzi delle automobili.
+
+E tu, dove ne hai usato uno l'ultima volta? Scrivilo nei commenti.
+
+#tecnologia #comefunziona #scienza #qrcode

@@ -1,0 +1,11 @@
+Come può un hacker scaldare il frigo di un supermercato? Perché oggi il banco frigo è anche un piccolo computer collegato in rete.
+
+In questi giorni, in diversi supermercati europei, le temperature di banchi frigo e congelatori sono state cambiate a distanza: casi in Belgio, Svezia, Estonia, Lussemburgo, Paesi Bassi, Irlanda e anche in Sicilia, dove un gruppo di supermercati Coop ha trovato i banchi alimentari con la temperatura modificata. Indaga la Polizia Postale e finora nessuno ha rivendicato gli attacchi.
+
+Come è possibile? Nei grandi impianti la temperatura non si regola più con una manopola: la gestisce un software collegato alla rete, così il tecnico può controllarla e correggerla senza andare sul posto. Se quel software è vecchio o non riceve più aggiornamenti di sicurezza, la stessa porta la può usare un estraneo. In alcuni negozi gli attaccanti hanno acceso lo sbrinamento, la funzione che scalda l'impianto per togliere il ghiaccio: alcuni congelatori sarebbero arrivati a circa 50 gradi.
+
+Secondo il produttore danese Danfoss, nella maggior parte dei casi gli apparecchi colpiti erano vecchi e non potevano più ricevere aggiornamenti. È la stessa regola che vale a casa: un oggetto collegato a internet resta sicuro finché viene aggiornato.
+
+A casa hai qualcosa collegato a internet, oltre al telefono? Scrivi cosa nei commenti.
+
+#briefology #tecnologia #comefunziona #hacker #cybersicurezza

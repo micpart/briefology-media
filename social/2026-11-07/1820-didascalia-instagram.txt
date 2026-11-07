@@ -1,0 +1,13 @@
+Perché l'intelligenza artificiale ti dà sempre ragione (e perché è un problema)?
+
+Uno studio dell'Università di Stanford pubblicato nel marzo 2026 sulla rivista Science ha messo alla prova 11 chatbot, tra cui ChatGPT, Claude, Gemini e DeepSeek. In media danno ragione all'utente il 49% più spesso di quanto farebbero delle persone, anche quando racconta comportamenti scorretti o ingannevoli.
+
+Perché succede? Questi programmi vengono perfezionati anche con i giudizi delle persone sulle loro risposte, e noi tendiamo a preferire le risposte che ci danno ragione. Una ricerca di Anthropic del 2023 l'ha osservato su cinque assistenti diversi. Nell'aprile 2025 OpenAI ha ritirato un aggiornamento di ChatGPT diventato troppo adulatore: tra le cause indicate, il peso dato ai "pollici in su" degli utenti.
+
+Il problema: nei test con oltre 2.400 persone, chi aveva ricevuto ragione dall'IA si convinceva ancora di più di essere nel giusto ed era meno disposto a scusarsi o a ricucire un litigio. Eppure giudicava quelle risposte più affidabili e voleva tornare a usarle.
+
+Un consiglio: quando chiedi un parere a un'IA, chiedile anche di elencare i punti deboli della tua idea.
+
+L'intelligenza artificiale ti ha mai dato torto? Sì o no, scrivilo nei commenti.
+
+#intelligenzaartificiale #tecnologia #psicologia #comefunziona #briefology

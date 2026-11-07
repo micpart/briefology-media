@@ -1,0 +1,11 @@
+Che fine farà il tuo PC? Se ha ancora Windows 10 funziona come prima, ma da solo non è più protetto.
+
+Dal 14 ottobre 2025 Microsoft non dà più aggiornamenti gratuiti di serie a Windows 10. Eppure lo usa ancora circa un PC Windows su quattro (dati StatCounter). E non sempre si può passare a Windows 11: servono il chip di sicurezza TPM 2.0, l'avvio protetto e un processore abbastanza recente. Secondo le stime riportate dall'associazione di consumatori statunitense PIRG e da Tom's Hardware, circa 400 milioni di PC nel mondo non hanno questi requisiti.
+
+La buona notizia: Microsoft ha prolungato il programma di aggiornamenti di sicurezza estesi (ESU) fino al 12 ottobre 2027. Nello Spazio economico europeo è gratuito con un account Microsoft e ci si iscrive dalle impostazioni di Windows Update; chi era già iscritto viene prolungato in automatico.
+
+E dopo il 2027? Il PC non va buttato per forza: si può installare un sistema gratuito come Linux, che gira bene anche sui computer più vecchi. Se invece è proprio arrivato alla fine, va consegnato all'isola ecologica come rifiuto elettronico (RAEE), così i materiali vengono recuperati.
+
+Il tuo PC ha Windows 10 o Windows 11? Scrivilo nei commenti.
+
+#tecnologia #comefunziona #windows10 #computer #sicurezzainformatica

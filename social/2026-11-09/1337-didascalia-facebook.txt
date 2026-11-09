@@ -1,0 +1,13 @@
+Perché una centrale nucleare spenta ha bisogno di corrente? Perché spenta non vuol dire fredda.
+
+Domenica 8 novembre la centrale di Zaporizhzhia, in Ucraina, ha perso di nuovo il collegamento alla rete elettrica ed è andata avanti con i generatori diesel di emergenza, finché l'alimentazione esterna non è stata ripristinata. I suoi sei reattori sono fermi e non producono elettricità: eppure hanno bisogno di corrente.
+
+Il motivo è il combustibile. Quando un reattore si spegne, la reazione a catena si ferma, ma il combustibile continua a produrre calore: subito dopo lo spegnimento è circa il 6% della potenza a cui lavorava. Col passare dei giorni cala molto, ma non si azzera.
+
+Quel calore va portato via con acqua che circola, giorno e notte. E le pompe che la fanno circolare vanno a corrente: se manca la rete, partono i generatori diesel. Secondo l'AIEA, a Zaporizhzhia il gasolio basta per circa due settimane.
+
+È la lezione di Fukushima. L'11 marzo 2011, con il terremoto, i reattori in funzione si spensero da soli. Poi lo tsunami allagò la centrale e fermò i generatori di emergenza: senza raffreddamento, in tre reattori il combustibile si fuse.
+
+Lo sapevi che una centrale spenta va raffreddata? Sì o no, scrivilo nei commenti.
+
+#comefunziona #scienza #scienzaquotidiana #nucleare

@@ -1,0 +1,13 @@
+Perché l'allarme bomba ha saltato Trento e Aosta? Perché lì le scuole hanno indirizzi email diversi da quelli del resto d'Italia.
+
+Mercoledì 11 novembre una mail con la minaccia di un ordigno è arrivata a circa 6.000 scuole statali. In molte ci sono state evacuazioni e controlli, ma nessun ordigno è stato trovato e il ministro dell'Istruzione ha parlato di rischio «pressoché inesistente».
+
+Le caselle delle scuole statali sono costruite tutte allo stesso modo: il codice della scuola seguito da @istruzione.it. Sono indirizzi pubblici, che si trovano facilmente negli elenchi delle scuole.
+
+In Trentino-Alto Adige e Valle d'Aosta, invece, la scuola è gestita dalle autonomie locali: gli indirizzi sono quelli delle Province (@provincia.tn.it, @provincia.bz.it) e della Regione (@mail.scuole.vda.it). Lì non è arrivato nessun allarme.
+
+Attenzione: è la spiegazione data dalle stesse Province autonome. La falla esatta che ha permesso l'invio di massa la stabiliranno le indagini.
+
+La scuola dei tuoi figli o nipoti è stata evacuata? Rispondi sì o no nei commenti 👇
+
+#tecnologia #comefunziona #scuola #sicurezzainformatica #email

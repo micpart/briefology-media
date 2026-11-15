@@ -1,0 +1,13 @@
+Da 50 a 70 all'ora: perché la frenata raddoppia? Perché l'energia da smaltire cresce con il quadrato della velocità. 🚗
+
+Oggi, terza domenica di novembre, è la Giornata mondiale in ricordo delle vittime della strada: un buon momento per ripassare un pezzo di fisica che si impara a scuola guida e si dimentica in fretta.
+
+Un'auto in movimento ha un'energia di movimento (si chiama energia cinetica) che i freni devono trasformare in calore. Quell'energia non cresce come la velocità, ma come il suo quadrato: se vai il 40% più veloce, 70 invece di 50 km/h, l'energia è circa il doppio (1,4 × 1,4 ≈ 2). A parità di freni, gomme e asfalto, il doppio di energia vuol dire circa il doppio di strada per fermarsi.
+
+Con la formula usata nelle scuole guida (spazio di frenata in metri = velocità in km/h al quadrato diviso 152, su asfalto asciutto), da 50 km/h servono circa 16 metri di frenata, da 70 circa 32. Prima ancora c'è lo spazio percorso mentre il piede passa sul freno: in un secondo di reazione sono circa 14 metri a 50 km/h e 19 a 70.
+
+Il risultato più sorprendente: nel punto in cui l'auto che andava a 50 si è già fermata, quella che andava a 70 passa ancora a circa 60 all'ora. Il numero esatto cambia con i freni, le gomme e i riflessi di chi guida, e sul bagnato i metri aumentano.
+
+Sapevi che lo spazio di frenata cresce così tanto? Rispondi sì o no nei commenti 👇
+
+#sicurezzastradale #fisica #comefunziona #scienza

@@ -1,0 +1,11 @@
+Una foto sa dove l'hai scattata. Come fa? Dentro il file non c'è solo l'immagine. 📍
+
+Ogni foto fatta con il telefono porta con sé i dati Exif, uno standard nato in Giappone a metà degli anni Novanta (la prima versione è del 1995): data e ora dello scatto, marca e modello del telefono, impostazioni della fotocamera. E, se nella fotocamera è attiva la posizione, anche le coordinate GPS del punto in cui eri. Guardando la foto non le vedi, ma stanno nel file.
+
+Se ne parla in questi giorni perché il Garante per la protezione dei dati personali ha multato Meta per 805 milioni di euro. Secondo il Garante, con la funzione che suggerisce foto e video dalla galleria, l'app Facebook per Android accedeva a foto, video e relativi metadati senza un consenso specifico e valido; entro 60 giorni la funzione dovrà essere spenta per impostazione predefinita. Meta non è d'accordo, ritiene la sanzione sproporzionata e annuncia ricorso.
+
+Su Android, dalla versione 10 il sistema nasconde alle app la posizione salvata nelle foto, a meno che tu non dia un permesso apposito. E se salvarla o no lo decidi tu: di solito l'opzione è nelle impostazioni dell'app Fotocamera.
+
+Nella tua fotocamera la posizione è attiva o spenta? Rispondi nei commenti.
+
+#tecnologia #comefunziona #smartphone #privacy

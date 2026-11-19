@@ -1,0 +1,13 @@
+Gli aggiornamenti riparano. Perché a volte bloccano tutto? 🔧
+
+Dal 12 al 17 novembre, negli Stati Uniti, si sono fermati uno dopo l'altro la posta di Microsoft 365, i servizi online della banca JPMorgan Chase, alcuni servizi Apple e perfino la rete interna della NSA. Il 13 novembre si è bloccato anche il traffico aereo, per colpa di un router. Le aziende dicono che non c'è stato nessun attacco hacker. Per la NSA, il direttore dell'intelligence Jay Clayton ha collegato il guasto alle correzioni per alcune falle del linguaggio PHP; Apple ha parlato di un aggiornamento interno. Negli Stati Uniti l'hanno chiamato «bugmageddon».
+
+Il perché è semplice: un programma moderno è fatto di migliaia di pezzi che si appoggiano l'uno all'altro, molti scritti da altri. Un aggiornamento ne cambia uno. Se un altro pezzo contava sul vecchio comportamento, si inceppa, magari solo con tanto traffico o in condizioni che le prove non avevano previsto.
+
+È già successo: il 19 luglio 2024 un aggiornamento difettoso del software di sicurezza CrowdStrike bloccò circa 8,5 milioni di computer Windows (stima di Microsoft), con voli cancellati in mezzo mondo.
+
+Oggi c'è in più la fretta: l'intelligenza artificiale scova falle nei programmi sempre più velocemente, e ogni falla va chiusa subito, prima che la usino i criminali. Più si corre, meno tempo resta per provare gli aggiornamenti. Attenzione però: non tutti i guasti di questi giorni hanno la stessa causa, e su alcuni le verifiche sono ancora in corso.
+
+Ti è mai successo che un aggiornamento rompesse qualcosa? Rispondi sì o no nei commenti.
+
+#tecnologia #comefunziona #informatica #aggiornamenti

@@ -1,0 +1,9 @@
+Le truffe online sono piene di errori. E se lo facessero apposta? 🎣
+
+Secondo uno studio di Microsoft Research (Cormac Herley, 2012), i messaggi assurdi e sgrammaticati funzionano come un filtro: chi è attento li riconosce e chiude subito, mentre risponde solo chi è più propenso a crederci. Per il truffatore ogni risposta vuol dire tempo e lavoro, quindi gli conviene parlare solo con chi ha più probabilità di cascarci. È la spiegazione proposta dallo studio, non una regola che vale per ogni truffa.
+
+Attenzione però: oggi molte truffe sono scritte benissimo. Il 19 novembre l'Agenzia delle Entrate ha segnalato un falso sito che copia il suo portale e fa installare un'app che ruba credenziali bancarie, SMS e codici OTP. L'unico indirizzo ufficiale è agenziaentrate.gov.it, e le app si scaricano solo dagli store ufficiali.
+
+Ti è mai arrivato un SMS truffa? Scrivi nei commenti chi fingeva di essere.
+
+#briefology #tecnologia #comefunziona #phishing #truffeonline

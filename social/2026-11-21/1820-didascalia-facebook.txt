@@ -1,0 +1,11 @@
+Rubati i dati, non le password. Allora dov'è il pericolo? 📱
+
+Nei giorni scorsi, su un forum underground, sono stati pubblicati i dati di circa 1.500 clienti del servizio PosteCert Firma Digitale di Poste Italiane: nomi, indirizzi, email e numeri di telefono (secondo alcune testate anche codice fiscale ed estremi del documento). Poste ha confermato la violazione. Password, credenziali di accesso, conti e carte non sono coinvolti.
+
+Il rischio è un altro. Con quei dati un truffatore può scrivere un messaggio che ti chiama per nome, conosce il tuo indirizzo e cita un servizio che usi davvero. Sembra vero proprio perché contiene cose vere. Si chiama phishing mirato, e inganna molto più dei messaggi generici.
+
+La regola vale per tutti, non solo per chi è coinvolto: sul suo sito Poste Italiane scrive che non chiede mai, in nessuna modalità, codici OTP, credenziali di accesso o dati della carta. Davanti a un SMS, una email o una telefonata che mette fretta: non cliccare, chiudi e controlla dall'app o dai canali ufficiali.
+
+Ti è mai arrivato un SMS che sembrava vero? Scrivi «sì» o «no» nei commenti.
+
+#comefunziona #tecnologia #phishing #truffeonline

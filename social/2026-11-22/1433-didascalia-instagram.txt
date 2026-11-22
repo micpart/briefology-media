@@ -1,0 +1,11 @@
+Ipotesi di riemann: dal 1859 mai dimostrata dall'uomo, ma ci è riuscita l'IA. Di che si tratta? 🔢
+
+L'ipotesi di Riemann è considerata il più importante problema aperto della matematica. Riguarda i numeri primi, quelli divisibili solo per 1 e per sé stessi: 2, 3, 5, 7, 11… Sembrano sparsi a caso, ma nel 1859 Bernhard Riemann ipotizzò che seguano un ordine nascosto, scritto negli "zeri" di una funzione chiamata zeta: tutti quelli non banali starebbero su un'unica linea. È uno dei sette Problemi del millennio del Clay Mathematics Institute, con un premio da un milione di dollari.
+
+Il 20 novembre Levent Alpöge, matematico che lavora per Anthropic, ha scritto sul suo sito: «Credo di aver scoperto, lavorando con Claude, una dimostrazione dell'ipotesi di Riemann». Non è un articolo ma un programma in Lean, un linguaggio che fa controllare al computer ogni passaggio: circa 17 milioni di righe.
+
+Attenzione però: non è ancora un risultato acquisito. Secondo alcune fonti la comunità di Lean ha già confermato che il codice regge, secondo altre la verifica indipendente deve ancora arrivare. Di sicuro nessun matematico l'ha ancora letta e capita per intero e non c'è una pubblicazione con revisione scientifica. Lo stesso Alpöge ammette di non padroneggiare tutta la matematica coinvolta e promette una versione più breve e leggibile.
+
+Una dimostrazione che nessuno ha ancora capito: per te vale? Scrivi «sì» o «no» nei commenti.
+
+#briefology #matematica #numeriprimi #intelligenzaartificiale #scienza
